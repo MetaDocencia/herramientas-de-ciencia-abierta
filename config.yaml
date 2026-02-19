@@ -18,13 +18,13 @@ carpentry: 'metadocencia'
 carpentry_description: 'MetaDocencia'
 
 # Overall title for pages.
-title: 'Formación para enseñar'
+title: 'Herramientas para Ciencia Abierta'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: ~
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'ciencia abierta, herramientas, datos abiertos, código abierto, resultados abiertos' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,7 +34,7 @@ life_cycle: ''
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/JFormoso/formacion/'
+source: 'https://github.com/metadocencia/ciencia-abierta/'
 
 # Default branch of your lesson
 branch: 'main'
@@ -66,16 +66,7 @@ contact: 'infraestructura@metadocencia.org'
 
 # Order of episodes in your lesson
 episodes:
-- introduccion-personas.Rmd
-- modelos-mentales.Rmd
-- carga-cognitiva.Rmd
-- capacidad.Rmd
-- evaluacion.Rmd
-- critica.Rmd
-- motivacion.Rmd
-- aprendizaje.Rmd
-- preparacion.Rmd
-- final.Rmd
+- certificacion.Rmd
 
 
 # Information for Learners
@@ -101,5 +92,5 @@ includes:
 lang: es
 
 # varnish
-varnish: 'JFormoso/varnish'
+varnish: 'metadocencia/varnish'
 

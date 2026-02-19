@@ -1,26 +1,23 @@
 ---
-title: 'Aprendizaje activo y estrategias'
+title: 'Certificación'
 teaching: 10
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- ¿Qué prácticas ayudan a que el aprendizaje sea significativo?
+- ¿Cómo accedo al certificado de NASA Open Science 101?
 
-- ¿Por qué es importante que las personas aprendan haciendo?
+- ¿Cómo accedo al certificado de MetaDocencia Herramientas de Ciencia Abierta?
 
-- ¿Cómo promovemos la conciencia sobre cómo se aprende?
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explorar diferentes formas de aprender: pasivas y activas.
+- Identificar los requisitos mínimos para acceder a los certificados.
 
-- Comprender el papel de la metacognición en el proceso de enseñanza-aprendizaje.
-
-- Incorporar estrategias que favorezcan la práctica y la reflexión.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
