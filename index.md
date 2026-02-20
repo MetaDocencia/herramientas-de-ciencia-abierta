@@ -58,26 +58,6 @@ Los encuentros incluyen actividades destinadas a promover el intercambio, discut
 
 
 
-## Cronograma
-
-
-| Encuentro | Tema |
-|---|---|
-| 1 | Fundamentos de la Ciencia Abierta |
-| 2 | Datos Abiertos |
-| 3 | Código Abierto |
-| 4 | Resultados Abiertos |
-
-
-
-## Cómo participar
-
-[FORMULARIO DE INSCRIPCIÓN](#)
-
-*Todos los datos se manejarán en forma confidencial. Sólo podrán publicarse de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
-
-
-
 ## ¡Sírvete sin culpa!
 
 ¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo licencia **CC BY 4.0**. Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas; lo único que pedimos a cambio es que incluyas una referencia a esta página web.
