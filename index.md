@@ -3,7 +3,7 @@ site: sandpaper::sandpaper_site
 ---
 
 
-![Imagen de portada del curso Herramientas de Ciencia Abierta](episodes/fig/HCA.jpg)
+![ ](episodes/fig/HCA.jpg)
 
 ## Descripción del curso
 
