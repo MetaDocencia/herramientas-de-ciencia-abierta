@@ -3,6 +3,7 @@ site: sandpaper::sandpaper_site
 ---
 
 ![ ](episodes/fig/HCA.jpg)
+
 ## Descripción del curso
 
 MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comunidades hispanohablantes a conocer y aplicar buenas prácticas de la **Ciencia Abierta**.
