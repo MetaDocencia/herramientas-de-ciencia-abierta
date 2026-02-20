@@ -2,7 +2,6 @@
 site: sandpaper::sandpaper_site
 ---
 
-# Herramientas de Ciencia Abierta 2026
 
 ![Imagen de portada del curso Herramientas de Ciencia Abierta](episodes/fig/HCA.jpg)
 
@@ -14,7 +13,9 @@ MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comuni
 
 La formación será **virtual** y **100% en español**. Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
 
+
 ---
+
 
 ## Motivaciones para participar
 
@@ -29,7 +30,9 @@ Quienes completen esta formación podrán:
 - Acceder a recursos abiertos y referencias en español para seguir aplicando lo trabajado después de cada encuentro.
 - Conocer herramientas y casos de Ciencia Abierta en acción.
 
+
 ---
+
 
 ## ¿Para quién?
 
@@ -42,7 +45,9 @@ Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia
 - Tengan alguna experiencia (en un rango amplio entre poca y muchísima) trabajando en iniciativas abiertas, por ejemplo en publicaciones, datos, investigación, bibliotecas o repositorios, entre otras.
 - Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
 
+
 ---
+
 
 ## ¿Qué no incluye esta formación?
 
@@ -52,18 +57,18 @@ Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia
 
 ---
 
+
 ## Duración
 
 El curso tiene **4 encuentros sincrónicos virtuales**, con frecuencia semanal y una duración de **2,5 horas** cada uno, con pausas lejos de la pantalla cada aproximadamente **50 minutos**.
 
 Los encuentros incluyen actividades destinadas a promover el intercambio, discutir entre pares en salas de trabajo y presentar iniciativas o proyectos de quienes asistan.
 
+
 ---
 
 ## Cronograma
 
-> **Fechas y horarios:** a confirmar  
-> **Modalidad:** virtual
 
 | Encuentro | Tema |
 |---|---|
@@ -72,17 +77,19 @@ Los encuentros incluyen actividades destinadas a promover el intercambio, discut
 | 3 | Código Abierto |
 | 4 | Resultados Abiertos |
 
+
 ---
 
-## Cómo participar
 
-### Formulario de inscripción
+## Cómo participar
 
 [FORMULARIO DE INSCRIPCIÓN](#)
 
 *Todos los datos se manejarán en forma confidencial. Sólo podrán publicarse de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.*
 
+
 ---
+
 
 ## ¡Sírvete sin culpa!
 
@@ -90,11 +97,14 @@ Los encuentros incluyen actividades destinadas a promover el intercambio, discut
 
 Para más información, escríbenos a: **formacion@metadocencia.org**.
 
+
 ---
+
 
 ## Financiamiento
 
 Esta formación es posible gracias al subsidio de la NASA **80NSSC23K0854** (DOI: **10.5281/zenodo.8430889**) y al subsidio **DAF2021-239366** y DOI de subsidio **https://doi.org/10.37921/522107izqogv** de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador **10.13039/100014989**).
+
 
 ---
 
