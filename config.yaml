@@ -67,7 +67,8 @@ contact: 'infraestructura@metadocencia.org'
 # Order of episodes in your lesson
 episodes:
 - certificacion.Rmd
-- cronograma.Rmd
+- HCA1.Rmd
+- HCA2.Rmd
 
 
 # Information for Learners
