@@ -67,9 +67,9 @@ Los encuentros incluyen actividades destinadas a promover el intercambio, discut
 | Encuentro | Tema |
 |---|---|
 | 1 - 15/4 a las 11 h | Fundamentos de la Ciencia Abierta |
-| 2 - 22/4 a las 11 h | | Datos Abiertos |
-| 3 - 29/4 a las 11 h | | Código Abierto |
-| 4 - 6/5 a las 11 h | | Resultados Abiertos |
+| 2 - 22/4 a las 11 h | Datos Abiertos |
+| 3 - 29/4 a las 11 h | Código Abierto |
+| 4 - 6/5 a las 11 h | Resultados Abiertos |
 
 * Horarios en UTC-3, hora de Argentina. Puedes chequear tu hora local en https://www.horamundial.com/
 
