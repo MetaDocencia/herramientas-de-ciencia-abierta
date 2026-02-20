@@ -71,7 +71,7 @@ Los encuentros incluyen actividades destinadas a promover el intercambio, discut
 | 3 - 29/4 a las 11 h | Código Abierto |
 | 4 - 6/5 a las 11 h | Resultados Abiertos |
 
-* Horarios en UTC-3, hora de Argentina. Puedes chequear tu hora local en https://www.horamundial.com/
+*Horarios en UTC-3, hora de Argentina. Puedes chequear tu hora local en https://www.horamundial.com/*
 
 
 
