@@ -1,5 +1,5 @@
 ---
-title: 'Inscripción a cursada de abril 2026'
+title: 'Inscripción próxima cursada'
 teaching: 10
 exercises: 2
 ---
