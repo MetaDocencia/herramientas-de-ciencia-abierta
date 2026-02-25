@@ -1,12 +1,7 @@
 ---
-date: "2024-01-16"
-draft: false
-linktitle: Encuentro 1 ALTa CA
-summary: Materiales del módulo 1 de ALTa CA 1 2024 
-title: "Hoja de ruta. Encuentro 1 ALTa CA: Principios de la Ciencia Abierta"
-authors:
-  - MetaDocencia
-
+title: 'Inscripción próxima cursada'
+teaching: 10
+exercises: 2
 ---
 
 El encuentro 1 tiene carácter introductorio, de modo que además de presentar los conceptos claves del módulo, se plantea como propósito adicional romper el hielo entre participantes, establecer reglas de juego, presentar y acordar definiciones de términos (glosario).
