@@ -1,11 +1,10 @@
 ---
-title: 'Inscripción próxima cursada'
+title: 'Herramientas de Ciencia Abierta'
 teaching: 10
 exercises: 2
 ---
 
-El encuentro 1 tiene carácter introductorio, de modo que además de presentar los conceptos claves del módulo, se plantea como propósito adicional romper el hielo entre participantes, establecer reglas de juego, presentar y acordar definiciones de términos (glosario).
-A partir de los contenidos que plantea el [MOOC de NASA TOPS](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101), te proponemos desarrollar una clase virtual de 3 horas de duración, trabajando de forma colaborativa para seleccionar, priorizar y ajustar en base a nuestra experiencia y nuestra mirada latinoamericana los contenidos del primer módulo de NASA TOPS.
+El encuentro 1 es una introducción en la que se presentan los conceptos claves del curso, se plantea como propósito adicional romper el hielo entre participantes. A partir de los contenidos que plantea el curso de [NASA Open Science 101](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101), te proponemos desarrollar una clase virtual de 3 horas de duración, trabajando de forma colaborativa para seleccionar, priorizar y ajustar en base a nuestra experiencia y nuestra mirada latinoamericana los contenidos del primer módulo de NASA TOPS.
 
 ## Objetivos del Encuentro 1
 1. Conocer a las personas participantes de la cohorte y promover la participación y comunicación entre  sí a partir de sus propias experiencias, trayectorias y necesidades.
