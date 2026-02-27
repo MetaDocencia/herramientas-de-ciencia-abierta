@@ -1,5 +1,5 @@
 ---
-title: 'Resultados Abiertos'
+title: 'Encuentro 4 - Resultados Abiertos'
 teaching: 10
 exercises: 2
 ---
