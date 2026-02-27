@@ -1,5 +1,5 @@
 ---
-title: 'Datos Abiertos'
+title: 'Encuentro 2 - Datos Abiertos'
 teaching: 10
 exercises: 2
 ---
