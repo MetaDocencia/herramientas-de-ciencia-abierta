@@ -1,5 +1,6 @@
 ---
 site: sandpaper::sandpaper_site
+title: "Herramientas de Ciencia Abierta"
 ---
 
 ![ ](episodes/fig/HCA.jpg)
