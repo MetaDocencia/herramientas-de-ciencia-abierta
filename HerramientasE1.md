@@ -1,5 +1,5 @@
 ---
-title: 'Herramientas de Ciencia Abierta'
+title: 'Encuentro 1 - Herramientas de Ciencia Abierta'
 teaching: 10
 exercises: 2
 ---
