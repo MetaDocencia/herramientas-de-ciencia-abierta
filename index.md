@@ -1,101 +1,152 @@
 ---
 site: sandpaper::sandpaper_site
-title: "Herramientas de Ciencia Abierta"
 ---
 
-![ ](episodes/fig/HCA.jpg)
+# Herramientas de Ciencia Abierta
 
 ## Descripción del curso
 
-MetaDocencia, con el apoyo de **NASA Open Science**, invita a personas de comunidades hispanohablantes a conocer y aplicar buenas prácticas de la **Ciencia Abierta**.
 
-**Herramientas de Ciencia Abierta** es un curso virtual de formación de **4 semanas**. Se enfoca en compartir conocimiento con mirada local y facilitar la implementación de principios y prácticas de Ciencia Abierta a partir del encuentro entre pares, el intercambio de recursos comprobados y referencias accesibles, y el análisis de situaciones y ejemplos vinculados a experiencias de comunidades hispanohablantes.
+**Fechas:**
 
-La formación será **virtual, gratuito** y **100% en español**. Quienes participen activamente recibirán certificaciones de **MetaDocencia** y de **NASA Open Science**.
+- a confirmar
+- a confirmar
+- a confirmar
+
+**Lugar:** Virtual
+
+**Link para registrarte:** [agregar link]()
 
 
+## Objetivos
 
-## Motivaciones para participar
 
-Quienes completen esta formación podrán:
-
-- Acceder a **doble certificación** MetaDocencia + NASA.
-- Tener una primera aproximación a técnicas y principios que propone la Ciencia Abierta.
-- Participar de un espacio de formación e intercambio en español sobre Ciencia Abierta.
-- Ser parte de una experiencia que favorece el encuentro con otras personas hispanohablantes interesadas en la Ciencia Abierta.
-- Integrar un espacio amigable y seguro para dar a conocer iniciativas y proyectos propios sobre Ciencia Abierta.
-- Fortalecer y actualizar conocimientos en Ciencia Abierta a partir del intercambio colaborativo, para robustecer proyectos y prácticas.
-- Acceder a recursos abiertos y referencias en español para seguir aplicando lo trabajado después de cada encuentro.
-- Conocer herramientas y casos de Ciencia Abierta en acción.
-
+## Objetivos de aprendizaje:
 
 
 ## ¿Para quién?
 
-MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio transversales y abiertos que promuevan colaboraciones entre diversas áreas de conocimiento.
+[Acá van las learner personas]
 
-Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia y a la técnica en un sentido amplio que:
+## ¿Qué no incluye este taller?
 
-- Estén interesadas en debatir o construir conocimiento sobre Ciencia Abierta en contextos hispanohablantes. Si esta es tu primera aproximación, ¡será un honor que participes del curso!
-- Hayan participado en Ciencia Ciudadana, redes, eventos o comunidades asociadas a estos temas.
-- Tengan alguna experiencia (en un rango amplio entre poca y muchísima) trabajando en iniciativas abiertas, por ejemplo, en publicaciones, datos, investigación, bibliotecas o repositorios, entre otras.
-- Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
-
-
-
-## ¿Qué no incluye esta formación?
-
-- Desarrollo en profundidad y práctica extensiva de los principios de Ciencia Abierta.
-- Teoría de la ciencia o la epistemología.
-- Uso de Ciencia Abierta enfocado en disciplinas específicas.
-
-
+[Qué queda por fuera del alcance]
 
 ## Duración
 
-El curso tiene **4 encuentros sincrónicos virtuales**, con frecuencia semanal y una duración de **2,5 horas** cada uno, con pausas lejos de la pantalla aproximadamente cada **50 minutos**.
+Esta cohorte tiene una duración total 10 horas, incluyendo los intervalos, distribuidas en 4 encuentros de 2.5 horas cada uno.
+A continuación tienes un ejemplo de cronograma:
 
-Los encuentros incluyen actividades destinadas a promover el intercambio y discutir entre pares en salas de trabajo.
+
+#### Encuentro 1
+
+| Hora  | Tema |
+|-------|------|
+| 9:00  | Bienvenidos |
+| 9:30  | Construir habilidad con práctica |
+| 10:00 | ¿Cómo aprenden las personas? |
+| 10:30 | Recreo |
+| 11:00 | Modelos mentales |
+| 12:30 | Almuerzo |
+| 13:30 | Carga cognitiva y memoria |
+| 14:30 | Evaluación y feedback |
+| 15:30 | Recreo |
+| 16:00 | Evaluación y feedback |
+| 16:30 | Explicación del proceso de certificación |
+| 17:00 | Final del día 1 |
 
 
-## Cronograma
+#### Encuentro 2
 
-En el primer encuentro se definirá qué es la Ciencia Abierta y algunas de sus herramientas clave, junto a la modalidad de cada encuentro, canales de comunicación y colaboración. En los encuentros 2 a 4 se presentarán conceptos y herramientas sobre Datos Abiertos, Código Abierto y Resultados Abiertos.
+|Hora         |Tema                                               |
+|-------------|---------------------------------------------------|
+|9:00         |Introducción y recapitulación                      |
+|9:30         |Definiendo tu audiencia y tus resultados esperados |  
+|10:30        |Recreo                                             |
+|11:00        |Motivación y desmotivación                         |    
+|12:00        |Simulación de entrenamiento 1                      |
+|12:45        |Final del día 2                                    |
 
-|  | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
-| ---:  | :----------- |
-| Primera semana de 0 a 2:30 hs | [*Herramientas de Ciencia Abierta*]() | 
-| Segunda semana de 0 a 2:30 hs | [*Datos Abiertos*]() | 
-| Tercera semana de 0 a 2:30 hs | [*Código Abierto*]() |
-| Cuarta semana de 0 a 2:30 hs | [*Resultados Abiertos*]() |
+#### Encuentro 3                                                  
 
-Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
+|Hora         |Tema                                     |
+|-------------|-----------------------------------------|
+|9:00         |Programación en vivo y enseñar en línea  |
+|9:45         |Buenas y malas prácticas                 |
+|10:30        |Recreo                                   |
+|11:00        |Simulación de entrenamiento 2            |
+|11:30        |Planificación de cursos                  |
+|12:15        |Conclusiones y certificacion             |
+|12:45        |Final del día 3                          |
 
 
 ## Certificación
 
-Quienes participen del curso podrán acceder a una **doble certificación**:
+[completar requisitos para acceder a la certificación]
 
-### Certificación NASA Open Science
-Para obtener el certificado de conocimiento de los contenidos del [Curso de Introducción a la Ciencia Abierta de la NASA](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101) será necesario contestar correctamente el 70% de las preguntas de los cuestionarios administrados al final de cada encuentro. Los formularios estarán disponibles en español y se dedicará la última parte de los encuentros sincrónicos para responderlos. Se ofrecerá la posibilidad de completarlos de forma asincrónica (hasta 7 días corridos luego de la fecha del último encuentro) y de rehacerlos en el caso de no obtenerse el 70% de preguntas correctas.
 
-### Certificación MetaDocencia
-Además, entregaremos un certificado de asistencia de MetaDocencia a quienes participen activamente, ya sea asistiendo sincrónicamente a 3 de los 4 encuentros, o habiendo completado 3 de los 4 cuestionarios detallados en el párrafo anterior al menos 7 días corridos después de la fecha del último encuentro sincrónico.
+## Nos presentamos
 
-## Cómo participar
+</br>
 
-Anunciaremos la apertura e instrucciones para inscribirte en este curso a través de nuestras redes sociales, nuestro boletín y nuestro Slack comunitario. Si aún no recibes estos medios de comunicación, ¡[súmate](https://metadocencia.org/cta/)!
+### MetaDocencia
 
-## ¡Sírvete sin culpa!
+MetaDocencia es una organización sin fines de lucro donde trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativos.
 
-¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo licencia **CC BY 4.0**. Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas; lo único que pedimos a cambio es que incluyas una referencia a esta página web.
+Construimos capacidades científicas y técnicas en forma responsable y con mirada local, a través de la co-creación de redes, espacios de aprendizaje y recursos accesibles para comunidades hispanohablantes.
 
-Para más información, escríbenos a: **formacion@metadocencia.org**.
+Trabajamos desde América Latina consolidando a la región en el mapa global de la investigación. Nos proponemos facilitar la conexión de profesionales en ciencia y técnica, promoviendo el intercambio de conocimientos y la colaboración. 
 
-## Financiamiento
 
-Esta formación es gratuita gracias al subsidio de la NASA **80NSSC23K0854** (DOI: **10.5281/zenodo.8430889**) y al subsidio **DAF2021-239366** y DOI de subsidio **https://doi.org/10.37921/522107izqogv** de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador **10.13039/100014989**).
+#### Nuestros pilares de trabajo
 
+Trabajamos para que la producción, la comunicación y la aplicación de saberes científicos y técnicos sean globalmente equitativos.
+
+- **[Impulsamos infraestructura](https://metadocencia.org/que-hacemos/#infra)** Promovemos infraestructura científica y tecnológica que soporta la producción, gestión y reutilización de conocimiento.
+
+- **[Formamos capacidades](https://metadocencia.org/que-hacemos/#formacion)** Creamos programas de aprendizaje basados en evidencia, que transforman el conocimiento en acción y fortalecen a la comunidad científica con competencias de impacto local.
+
+- **[Construimos comunidad](https://metadocencia.org/que-hacemos/#comunidad)** Fomentamos redes de apoyo y colaboración que trascienden disciplinas, instituciones y países, para crecer y visibilizar la ciencia desde América Latina hacia el mundo.
+
+
+Si les gustaría conocer más sobre nosotros, pueden ingresar a [nuestra web](https://www.metadocencia.org). También pueden suscribirte a nuestro [Newsletter](https://www.metadocencia.org/suscripcion/) y recibir todas las novedades.
+
+
+### Docentes y equipo
+
+- **[Nicolás Palopoli](https://www.metadocencia.org/authors/npalopoli/)** Co-Director Ejecutivo y Chair del Consejo Asesor. Desde 2008 realiza tareas docentes de grado, posgrado y extensión, en modalidad presencial y virtual, tanto en UNQ como en otras instituciones educativas y para comunidades de práctica. Instructor y entrenador de instructores en The Carpentries.
+
+- **[Laura Ación](https://www.metadocencia.org/authors/lacion/)** Co-Directora Ejecutiva. Investigadora adjunta del CONICET en la Universidad de Buenos Aires, donde Co-dirige el Laboratorio de Uso Responsable de Datos. Tiene más de dos décadas de experiencia ofreciendo servicios de consultoría y enseñanza. 
+  
+- **[Jesica Formoso](https://www.metadocencia.org/authors/jformoso/)** Coordinadora del área de Medición de Impacto de MetaDocencia. Dra. en psicología cognitiva de la Universidad de Buenos Aires e investigadora adjunta de CONICET. Se dedica a la docencia y la investigación, destacándose como organizadora del capítulo de Buenos Aires de R-Ladies. Instructora certificada de RStudio y The Carpentries.
+
+- **[Paz Miguez](https://www.metadocencia.org/authors/pazmiguez/)** Coordinadora de áreas Institucional y Formación. Licenciada en Ciencia Política, con una Maestría en Política Educativa y un Profesorado en Docencia Superior. Más de 15 años de experiencia, en el diseño, gestión y monitoreo de programas educativos.
+  
+- **[Julián Buede](https://www.metadocencia.org/authors/jbuede/)** Equipo de Comunicación. Se especializa en formatos para contenidos audiovisuales educativos, especialmente en el ámbito de tutoriales y clases asincrónicas, con el objetivo de desarrollar formas creativas de presentar información.
+  
+- **[Irene Vazano](https://www.metadocencia.org/authors/irenevazano/)** Coordinadora del área de Infraestructura. Licenciada en Bibliotecología en la UCSE-DABA. Con experiencia de trabajo en bibliotecas académicas y como profesional independiente en diversos proyectos digitales, desempeñando roles de administración y garantizando la calidad de accesibilidad.
+
+
+## Antes de empezar
+
+### Pautas de convivencia
+
+Estas son nuestras [pautas de convivencia](https://doi.org/10.5281/zenodo.12534195). Nos ayudan a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales.
+
+Alentamos a la comunidad a apropiarse y a participar de estas pautas para que representen a todas las personas. Nos comprometemos a construir una
+comunidad amigable y respetuosa, y aunque en algunas ocasiones fallaremos, nuestro objetivo es que todas las personas reciban un trato justo, inclusivo y lo más equitativo posible. 
+
+### Código Abierto - Ciencia Abierta - Educación Abierta
+
+Creemos muy firmemente que las personas aprenden mejor cuando aprenden juntas, por eso todos estos materiales están disponibles gratuitamente bajo la licencia Creative Commons - Attribution - ShareAlike license. Te alentamos a que los compartas, adaptes y reuses, siempre que incluyas un enlace a la fuente original y distribuyas tu propio material bajo la misma licencia para ayudar a otras personas.
+
+
+<div style="text-align: right;">
+  <img src="fig/by-sa.png" alt="licencia CC BY-SA 4.0" width="150px">
+</div>
+
+
+### [Registro al curso]()
 
 
 ## 📬 Contacto
