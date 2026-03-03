@@ -17,20 +17,20 @@ El encuentro 1 es una introducción en la que se presentan los conceptos clave d
 |  Hora | Actividad | Duración |
 | ---:  | :----------- | :----------- |
 |-00:15 | Tiempo previo para conectarse | 
-|00:00 | Bienvenida e información general | 15 mins |
-|00:15 | **Ejercicio 1.** Presentación de las personas | 3 mins |
-|00:18 | Bloque 1. ¿Qué es la Ciencia Abierta?   | 10 mins |
-|00:28 | **Ejercicio 2.** Breve encuesta | 3 mins |
-|00:31 | Desafíos de la Ciencia Abierta  | 10 mins |
-|00:41 | Preocupaciones y formas de mitigarlas | 10 mins |
-|00:56 | **Ejercicio 3.** Ejercicio en salas de grupo | 14 mins |
-|01:10 | *Pausa* | 10 mins |
-|01:20 | Bloque 2. Principios FAIR | 15 mins |
-|01:35 | **Ejercicio 4.** Breve encuesta | 3 mins |
-|01:40 | Próximos pasos | 10 mins |
-|01:50 | Encuesta anónima | 5 mins |
-|01:55 | Evaluación de contenidos para la certificación | 15 mins |
-|02:10 | Cierre | 5 mins |
+|00:00 | Bienvenida e información general | 20 mins |
+|00:20 | **Ejercicio 1.** Presentación de las personas | 5 mins |
+|00:25 | Bloque 1. ¿Qué es la Ciencia Abierta?   | 15 mins |
+|00:40 | **Ejercicio 2.** Breve encuesta | 5 mins |
+|00:45 | Desafíos de la Ciencia Abierta  | 10 mins |
+|00:55 | Preocupaciones y formas de mitigarlas | 10 mins |
+|01:05 | **Ejercicio 3.** Ejercicio en salas de grupo | 15 mins |
+|01:25 | *Pausa* | 10 mins |
+|01:35 | Bloque 2. Principios FAIR | 15 mins |
+|01:50 | **Ejercicio 4.** Breve encuesta | 5 mins |
+|01:55 | Próximos pasos | 10 mins |
+|02:00 | Encuesta anónima | 5 mins |
+|02:05 | Evaluación de contenidos para la certificación | 15 mins |
+|02:20 | Cierre | 10 mins |
 
 ## Materiales
 
