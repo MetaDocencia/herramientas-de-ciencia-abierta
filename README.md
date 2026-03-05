@@ -1,79 +1,139 @@
-# Herramientas de Ciencia Abierta
+# Template de lecciones reproducibles de MetaDocencia
 
-## Descripción del curso
-
-
-## Objetivos
+[![DOI](https://zenodo.org/badge/1001520909.svg)](https://doi.org/10.5281/zenodo.18791874)
 
 
-## Objetivos de aprendizaje:
+Este repositorio se basa en el **template oficial de MetaDocencia** para crear cursos y lecciones reproducibles con [Carpentries Workbench](https://carpentries.github.io/sandpaper/), adaptado a nuestra configuración y estilo.
 
 
-## ¿Para quién?
+> Si te sirve, puedes usar [este repositorio](https://github.com/MetaDocencia/metadocencia-workbench-template) como punto de partida, directamente desde GitHub, sin necesidad de herramientas locales.
 
-[Acá van las learner personas]
+---
 
-## ¿Qué no incluye este taller?
+## ¿Cómo comenzar una lección nueva?
 
-[Qué queda por fuera del alcance]
+### 1. Crear un nuevo repositorio
 
-## Duración
+Generamos una copia accediendo directamente a: https://github.com/MetaDocencia/metadocencia-workbench-template/generate
 
-Esta cohorte tiene una duración total 10 horas, incluyendo los intervalos, distribuidas en 4 encuentros de 2.5 horas cada uno.
-A continuación tienes un ejemplo de cronograma:
+Asignamos un nombre a tu nuevo repositorio (por ejemplo, `leccion-mi-tema`) y seleccionamos **Create repository**.
 
+---
 
-#### Encuentro 1
+### 2. Editar la lección desde GitHub
 
-| Hora  | Tema |
-|-------|------|
-| 9:00  | Bienvenidos |
-| 9:30  | Construir habilidad con práctica |
-| 10:00 | ¿Cómo aprenden las personas? |
-| 10:30 | Recreo |
-| 11:00 | Modelos mentales |
-| 12:30 | Almuerzo |
-| 13:30 | Carga cognitiva y memoria |
-| 14:30 | Evaluación y feedback |
-| 15:30 | Recreo |
-| 16:00 | Evaluación y feedback |
-| 16:30 | Explicación del proceso de certificación |
-| 17:00 | Final del día 1 |
+Una vez creado el repositorio, podemos comenzar a editarlo directamente desde la interfaz web:
 
+- Los episodios están en la carpeta `episodes/` (cada archivo `.md` es una sección de la lección).
+- La página principal está en `index.md`.
+- La configuración general se encuentra en `config.yaml`.
 
-#### Encuentro 2
+Con el botón **editar** en cada archivo, podemos modificarlo y luego seleccionar **Commit changes** para guardar los cambios.
 
-|Hora         |Tema                                               |
-|-------------|---------------------------------------------------|
-|9:00         |Introducción y recapitulación                      |
-|9:30         |Definiendo tu audiencia y tus resultados esperados |  
-|10:30        |Recreo                                             |
-|11:00        |Motivación y desmotivación                         |    
-|12:00        |Simulación de entrenamiento 1                      |
-|12:45        |Final del día 2                                    |
+> No necesitás usar RStudio ni línea de comandos.
 
-#### Encuentro 3                                                  
+---
 
-|Hora         |Tema                                     |
-|-------------|-----------------------------------------|
-|9:00         |Programación en vivo y enseñar en línea  |
-|9:45         |Buenas y malas prácticas                 |
-|10:30        |Recreo                                   |
-|11:00        |Simulación de entrenamiento 2            |
-|11:30        |Planificación de cursos                  |
-|12:15        |Conclusiones y certificacion             |
-|12:45        |Final del día 3                          |
+## Publicación del sitio en GitHub Pages
+
+Para habilitar la publicación automática del sitio web de la lección desde GitHub Pages:
+
+1. Desde el repositorio, seleccionamos **Settings > Pages**.
+2. En la sección **"Source"**, configuramos:
+   - **Branch**: `gh-pages`
+   - **Carpeta**: `/ (root)`
+3. Seleccionamos **“Save”**.
+
+### Verificación de la publicación
+
+1. Editamos cualquier archivo de la lección desde GitHub (por ejemplo, un episodio).
+2. GitHub ejecutará automáticamente el flujo de publicación.
+3. Podemos ver el progreso en la pestaña **Actions** del repositorio.
+4. Una vez finalizado el proceso, el sitio estará disponible en:
 
 
-## Certificación
+```
+https://<usuario-o-organización>.github.io/<nombre-del-repo>/
+```
 
-[completar requisitos para acceder a la certificación]
+Por ejemplo:  
+https://metadocencia.github.io/metadocencia-workbench-template/
 
-## Pautas de convivencia
+---
 
-Este curso se desarrolla considerando estas [pautas de convivencia](https://doi.org/10.5281/zenodo.12534195). Nos ayudan a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades.
+## 📬 Contacto
 
+¿Tienes dudas? Escríbenos a:  
+infraestructura@metadocencia.org
 
-## ¡Sírvete sin culpa!
+Puedes encontrar más materiales y recursos en:  
+https://www.metadocencia.org
 
-¿Te vienen bien cualquiera de nuestros contenidos? ¡Sírvete sin culpa! Nuestros materiales están disponibles en forma gratuita bajo [esta licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece encima de estas líneas, lo único que pedimos a cambio es que incluyas una referencia a esta página web. Para más información, escríbenos a formacion@metadocencia.org.
+---
+
+# MetaDocencia Reproducible Lesson Template
+
+This repository is an **official MetaDocencia template** to create reproducible lessons using the [Carpentries Workbench](https://carpentries.github.io/sandpaper/), adapted with our custom configuration and style.
+
+> Use this repository as a starting point for your own lessons, directly from GitHub — no local tools needed.
+
+---
+
+## How to start a new lesson
+
+### 1. Create a new repository
+
+Go directly to:  
+https://github.com/MetaDocencia/metadocencia-workbench-template/generate
+
+Choose a name for your new repository (e.g., `lesson-my-topic`) and click **Create repository**.
+
+---
+
+### 2. Edit your lesson via GitHub
+
+Once your repository is created, you can edit everything directly in the web interface:
+
+- Lesson episodes are in the `episodes/` folder (each `.md` file is a section).
+- The home page is `index.md`.
+- General configuration is in `config.yaml`.
+
+Use the **edit** button in each file to make changes, then select **Commit changes** to save.
+
+> No need for RStudio or command line tools.
+
+---
+
+## Publishing the Site on GitHub Pages
+
+To enable automatic publication of the lesson website using GitHub Pages, follow these steps:
+
+1. From the repository, click **Settings > Pages**.
+2. Under **"Source"**, configure:
+   - **Branch**: `gh-pages`
+   - **Folder**: `/ (root)`
+3. Click **“Save”**.
+
+### Verifying the publication
+
+1. Edit any file in the lesson repository (e.g., an episode).
+2. GitHub will automatically trigger the publishing workflow.
+3. You can monitor the process under the **Actions** tab.
+4. Once the workflow completes, the site will be available at:
+
+``` 
+https://<your-user-or-org>.github.io/<repository-name>/
+```
+
+Example:  
+https://metadocencia.github.io/lesson-example/
+
+---
+
+## 📬 Contact
+
+Questions or suggestions? Reach us at:  
+infraestructura@metadocencia.org
+
+Explore more of our resources:  
+https://www.metadocencia.org
