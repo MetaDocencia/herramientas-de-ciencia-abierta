@@ -66,7 +66,10 @@ contact: 'infraestructura@metadocencia.org'
 
 # Order of episodes in your lesson
 episodes:
-- certificacion.Rmd
+- FundamentosE1.Rmd
+- DatosAbiertosE2.Rmd
+- CodigoAbiertoE3.Rmd
+- ResultadosAbiertosE4.Rmd
 
 
 # Information for Learners
