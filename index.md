@@ -64,7 +64,7 @@ En el primer encuentro se definirá qué es la Ciencia Abierta y algunas de sus 
 
 |  | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
-| Primera semana de 0 a 2:30 hs | [*Herramientas de Ciencia Abierta*]() | 
+| Primera semana de 0 a 2:30 hs | [*Fundamentos de Ciencia Abierta*]() | 
 | Segunda semana de 0 a 2:30 hs | [*Datos Abiertos*]() | 
 | Tercera semana de 0 a 2:30 hs | [*Código Abierto*]() |
 | Cuarta semana de 0 a 2:30 hs | [*Resultados Abiertos*]() |
