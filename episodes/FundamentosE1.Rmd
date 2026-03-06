@@ -35,7 +35,7 @@ El primer encuentro es una introducción en la que presentamos los conceptos cla
 
 ## Materiales
 
-- Presentación: []
+- [Presentación](https://doi.org/10.5281/zenodo.18890057)
   
 ### ¡Sírvete sin culpa!
 Nuestros materiales están disponibles de forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá, incluyas una referencia a esta página web.
