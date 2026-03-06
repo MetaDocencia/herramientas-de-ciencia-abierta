@@ -4,12 +4,12 @@ teaching: 10
 exercises: 2
 ---
 
-El encuentro 2 busca cubrir, revisar y reflexionar sobre qué son y los beneficios de los Datos Abiertos y la importancia del uso de un Plan de Gestión de Datos (PGD). Repasaremos ejemplos y aspectos importantes de un PGD. También hablaremos sobre metadatos, licencias, repositorios en la Ciencia Abierta. 
+En este segundo encuentro revisamos y reflexionamos sobre qué son y cuáles son los beneficios de los Datos Abiertos. También presentamos el Plan de Gestión de Datos (PGD) y su importancia. Repasaremos ejemplos y aspectos importantes de un PGD. También hablaremos sobre metadatos, licencias y repositorios para hacer Ciencia Abierta. 
 
-## Objetivos del Encuentro 3
-1. Definir qué son los datos abiertos, identificar sus tipos y características, así como explorar los beneficios derivados de la apertura de datos
+## Objetivos del Encuentro 2
+1. Definir qué son los datos abiertos, identificar sus tipos y características, así como explorar los beneficios derivados de la apertura de datos.
 2. Reconocer los pasos y componentes para la redacción de un Plan de Gestión de Datos (PGD) efectivo.
-3. Identificar buenas prácticas para optimizar la interoperabilidad y reusabilidad de los datos.
+3. Identificar buenas prácticas para optimizar la interoperabilidad y reutilización de los datos.
  
 
 ## Cronograma
