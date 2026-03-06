@@ -64,10 +64,10 @@ En el primer encuentro se definirá qué es la Ciencia Abierta y algunas de sus 
 
 |  | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
-| Primera semana de 0 a 2:30 hs | [*Fundamentos de Ciencia Abierta*]() | 
-| Segunda semana de 0 a 2:30 hs | [*Datos Abiertos*]() | 
-| Tercera semana de 0 a 2:30 hs | [*Código Abierto*]() |
-| Cuarta semana de 0 a 2:30 hs | [*Resultados Abiertos*]() |
+| Primera semana de 0 a 2:30 hs | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta/FundamentosE1.html) | 
+| Segunda semana de 0 a 2:30 hs | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta/DatosAbiertosE2.html) | 
+| Tercera semana de 0 a 2:30 hs | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta/CodigoAbiertoE3.html) |
+| Cuarta semana de 0 a 2:30 hs | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta/ResultadosAbiertosE4.html) |
 
 Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
 
