@@ -4,13 +4,14 @@ teaching: 10
 exercises: 2
 ---
 
-El encuentro 1 es una introducción en la que se presentan los conceptos clave del curso, se plantea como propósito adicional romper el hielo entre participantes. A partir de los contenidos que plantea el curso de [NASA Open Science 101](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000049ih3/open-science-101), te proponemos desarrollar una clase virtual, trabajando de forma colaborativa para seleccionar, priorizar y ajustar en base a nuestra experiencia y nuestra mirada latinoamericana los contenidos del primer módulo de NASA TOPS.
+El primer encuentro es una introducción en la que presentamos los conceptos claves de la Ciencia Abierta. También buscamos romper el hielo entre participantes.
 
 ## Objetivos del Encuentro 1
-1. Conocer a las personas participantes de la cohorte y promover la participación y la comunicación entre sí a partir de sus propias experiencias, trayectorias y necesidades.
-2. Proponer una definición de Ciencia Abierta a partir de su ethos, principios y valores.
+1. Conocer a las personas participantes de la cohorte y promover la participación y la comunicación entre sí a partir de sus experiencias, trayectorias y necesidades.
+2. Proponer una definición de la Ciencia Abierta.
 4. Reconocer los desafíos que implican las prácticas de Ciencia Abierta en el marco de su aplicación en nuestro contexto.
-5. Reflexionar sobre los miedos que suscita la aplicación de las prácticas de Ciencia Abierta y construir colaborativamente estrategias para mitigarlos. 
+5. Reflexionar sobre las preocupaciones que suscita la aplicación de las prácticas de Ciencia Abierta y construir colaborativamente estrategias para mitigarlos.
+6. Definir los principios FAIR.
 
 
 ## Cronograma
