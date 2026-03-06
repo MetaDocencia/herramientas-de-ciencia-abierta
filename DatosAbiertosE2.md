@@ -38,7 +38,7 @@ En este segundo encuentro revisamos y reflexionamos sobre qué son y cuáles son
 
 ## Materiales
 
-- Presentación: [Enlace]
+- [Presentación](https://doi.org/10.5281/zenodo.18891558)
 
 ### ¡Sírvete sin culpa!
 Nuestros materiales están disponibles en forma gratuita bajo esta [licencia](https://creativecommons.org/licenses/by/4.0/deed.es). Es decir, puedes reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web.
