@@ -37,7 +37,7 @@ En este cuarto encuentro hablaremos sobre qué es el software de código abierto
 
 ## Materiales
 
-- Presentación: [Enlace]()
+- [Presentación](https://doi.org/10.5281/zenodo.18894415)
  
 ### ¡Sírvete sin culpa!
 
