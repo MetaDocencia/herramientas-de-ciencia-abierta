@@ -4,9 +4,9 @@ teaching: 10
 exercises: 2
 ---
 
-En este cuarto encuentro hablaremos sobre qué es el software de código abierto, distintas herramientas para facilitar su apertura y cómo gestionarla desde el principio mediante un Plan de Gestión de Software (PGS). También hablaremos de buenas prácticas para que nuestro código sea fácil de encontrar, accesible y reutilizable; así como para reusar código generado por otras personas. 
+En este tercer encuentro hablaremos sobre qué es el software de código abierto, distintas herramientas para facilitar su apertura y cómo gestionarla desde el principio mediante un Plan de Gestión de Software (PGS). También hablaremos de buenas prácticas para que nuestro código sea fácil de encontrar, accesible y reutilizable; así como para reusar código generado por otras personas. 
 
-## Objetivos del Encuentro 4
+## Objetivos del Encuentro 3
 
 1. Explicar qué significa el software de Código Abierto, enumerar sus beneficios y desafíos
 2. Explorar los componentes de un Plan de Gestión de Software de Código Abierto
