@@ -105,3 +105,7 @@ Esta formación es gratuita gracias al subsidio de la NASA **80NSSC23K0854** (DO
 
 Puedes encontrar más materiales y recursos en:  
 🌐 https://www.metadocencia.org
+
+
+
+*Este curso incluye contenidos equivalentes a los desarrollados en las cohortes América Latina se Transforma a la Ciencia Abierta (ALTaCA) durante 2024. Si ya te certificaste en una ALTaCA, este curso no te va a aportar nuevos aprendizajes.*
