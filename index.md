@@ -84,7 +84,9 @@ Además, entregaremos un certificado de asistencia de MetaDocencia a quienes par
 
 ## Cómo participar
 
-Anunciaremos la apertura e instrucciones para inscribirte en este curso a través de nuestras redes sociales, nuestro boletín y nuestro Slack comunitario. Si aún no recibes estos medios de comunicación, ¡[súmate](https://metadocencia.org/cta/)!
+[FORMULARIO DE INSCRIPCIÓN](https://docs.google.com/forms/d/e/1FAIpQLSfXW8TfcvUZ5L9W7tyN-NvycH1XY2q4nrbUNCY4KWkN6XW_WQ/viewform)
+
+Todos los datos se manejarán de forma confidencial. Sólo podrán publicarse de forma agregada y anonimizada en reportes sobre el alcance de MetaDocencia.
 
 ## ¡Sírvete sin culpa!
 
@@ -95,7 +97,6 @@ Para más información, escríbenos a: **formacion@metadocencia.org**.
 ## Financiamiento
 
 Esta formación es gratuita gracias al subsidio de la NASA **80NSSC23K0854** (DOI: **10.5281/zenodo.8430889**) y al subsidio **DAF2021-239366** y DOI de subsidio **https://doi.org/10.37921/522107izqogv** de la Chan Zuckerberg Initiative DAF, un fondo aconsejado por la Silicon Valley Community Foundation (DOI de financiador **10.13039/100014989**).
-
 
 
 ## 📬 Contacto
